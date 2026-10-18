@@ -6,15 +6,10 @@
 
 ---
 
-## 📎 Presentation & Demo
+## 📎 Presentation 
 
-<!-- Add your hackathon PPT PDF below -->
-**Slide Deck (PDF):**
-`[Attach PDF here]`
-
-<!-- Add your demo video link below -->
-**Demo Video:**
-`[Attach demo video link here]`
+**Slide Deck:** 
+- [View Slide Deck (PDF)](./docs/BNB.pdf)
 
 ---
 
